@@ -1,4 +1,4 @@
-# PCA-for-portfolio-optimization
+# PCA-for-Portfolio-Diversification
 In this project, Principal Component Analysis, a dimensionality reduction technique is used to obtain multiple portfolios consisting of Net Asset Value (NAV) of Mutual Funds.<br>
 The obtained portfolios are uncorrelated to each other and independent of each other, thus performance of any portfolio is not affected by the performance of any other.<br>
 The performance of the portfolios is evaluated using Sharpe's Ratio.<br>
