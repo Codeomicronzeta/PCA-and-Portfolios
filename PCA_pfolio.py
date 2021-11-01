@@ -312,7 +312,7 @@ Backtest(weights[5])
 
 # Conclusion
 # 1. The portfolio given by the first principal component represents a systematic risk factor and 
-#    the portfolios given by the other principal component may represent sector or industry factor. <br>
+#    the portfolios given by the other principal component may represent sector or industry factor.
 # 2. Since each of the principal component is uncorrelated and independent of each other, 
 #    the portfolios given by them can be used for diversification of the portfolio resulting in reduction of risk.
 
