@@ -7,4 +7,4 @@ The data has been taken from https://www.moneycontrol.com/mutualfundindia/
 
 Performance of few portfolios:<br>
 
- <img width="350" alt="Screenshot 2021-11-01 at 10 36 21 AM" src="https://user-images.githubusercontent.com/63745797/139624363-df1e1e11-55ba-42f5-9d92-066db5383384.png">|  <img width="350" alt="Screenshot 2021-11-01 at 10 35 51 AM" src="https://user-images.githubusercontent.com/63745797/139624373-db144b69-5c8c-4a0a-966f-03940bcaf819.png">
+ <img width="400" alt="Screenshot 2021-11-01 at 10 36 21 AM" src="https://user-images.githubusercontent.com/63745797/139624363-df1e1e11-55ba-42f5-9d92-066db5383384.png">|  <img width="400" alt="Screenshot 2021-11-01 at 10 35 51 AM" src="https://user-images.githubusercontent.com/63745797/139624373-db144b69-5c8c-4a0a-966f-03940bcaf819.png">
